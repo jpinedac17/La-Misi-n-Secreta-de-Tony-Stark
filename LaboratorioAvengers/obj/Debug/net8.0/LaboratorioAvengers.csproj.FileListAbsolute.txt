@@ -1,0 +1,14 @@
+c:\Users\Jeiner\Desktop\LaboratorioAvengers\obj\Debug\net8.0\LaboratorioAvengers.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Jeiner\Desktop\LaboratorioAvengers\obj\Debug\net8.0\LaboratorioAvengers.AssemblyInfoInputs.cache
+c:\Users\Jeiner\Desktop\LaboratorioAvengers\obj\Debug\net8.0\LaboratorioAvengers.AssemblyInfo.cs
+c:\Users\Jeiner\Desktop\LaboratorioAvengers\obj\Debug\net8.0\LaboratorioAvengers.csproj.CoreCompileInputs.cache
+c:\Users\Jeiner\Desktop\LaboratorioAvengers\bin\Debug\net8.0\LaboratorioAvengers.exe
+C:\Users\Jeiner\Desktop\LaboratorioAvengers\bin\Debug\net8.0\LaboratorioAvengers.deps.json
+C:\Users\Jeiner\Desktop\LaboratorioAvengers\bin\Debug\net8.0\LaboratorioAvengers.runtimeconfig.json
+c:\Users\Jeiner\Desktop\LaboratorioAvengers\bin\Debug\net8.0\LaboratorioAvengers.dll
+c:\Users\Jeiner\Desktop\LaboratorioAvengers\bin\Debug\net8.0\LaboratorioAvengers.pdb
+c:\Users\Jeiner\Desktop\LaboratorioAvengers\obj\Debug\net8.0\LaboratorioAvengers.dll
+c:\Users\Jeiner\Desktop\LaboratorioAvengers\obj\Debug\net8.0\refint\LaboratorioAvengers.dll
+c:\Users\Jeiner\Desktop\LaboratorioAvengers\obj\Debug\net8.0\LaboratorioAvengers.pdb
+C:\Users\Jeiner\Desktop\LaboratorioAvengers\obj\Debug\net8.0\LaboratorioAvengers.genruntimeconfig.cache
+C:\Users\Jeiner\Desktop\LaboratorioAvengers\obj\Debug\net8.0\ref\LaboratorioAvengers.dll
